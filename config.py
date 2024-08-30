@@ -163,7 +163,7 @@ AccountList = [
         # Example: "telegram_chat_id": "12345678".
         # If you do not wish to use this feature for this account, leave it empty.
         # This feature is optional and is required to enable the telegramBotLogging feature below.
-        "telegram_chat_id": "1439771387",  # String - you can get it from https://t.me/chatIDrobot
+        "telegram_chat_id": "1549658882",  # String - you can get it from https://t.me/chatIDrobot
     },
     # {
     #     "account_name": "Account 2",  # A custom name for the account (not important, just for logs)
@@ -217,7 +217,7 @@ AccountList = [
 # This feature is optional, and you can disable it by setting "is_active" to False.
 telegramBotLogging = {
     "is_active": True,  # Set it to True if you want to use it, and make sure to fill out the below fields
-    "bot_token": "7069215582:AAEXyTWTu4KdhblkgFhG5_IbbtTkZjSEbTo",  # HTTP API access token from https://t.me/BotFather ~ Start your bot after creating it
+    "bot_token": "7238601706:AAE394YYgrGLqAFNW7HOe-PllIEfybpko-A",  # HTTP API access token from https://t.me/BotFather ~ Start your bot after creating it
     # Configure the what you want to receive logs from the bot
     "messages": {
         "general_info": True,  # General information
